@@ -1,10 +1,16 @@
-
-sweetness,crunchiness,ingridient,Food Type
-8,3,Mango,fruit
-9,2,Banana,fruit
-2,9,Cucumber,veg
-4,1,Apple,fruit
-1,10,Lettuce,veg
-4,6,tomato,veg
-6,3,Pear,fruit
-2,8,Radish,veg
+Ingredient,Sweetness,Crunchiness,FoodType
+Apple,8,7,Fruit
+Banana,9,2,Fruit
+Carrot,3,9,Vegetable
+Cucumber,2,8,Vegetable
+Mango,10,5,Fruit
+Potato,1,7,Vegetable
+Onion,2,6,Vegetable
+Strawberry,9,4,Fruit
+Grapes,8,3,Fruit
+Broccoli,1,8,Vegetable
+Orange,7,5,Fruit
+Lettuce,1,9,Vegetable
+Pear,7,6,Fruit
+Biscuit,6,7,Snack
+Chips,5,10,Snack
