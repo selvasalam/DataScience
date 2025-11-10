@@ -1,12 +1,10 @@
 
-
-
-sweetness,crunchiness,Food Type
-8,3,Mango
-9,2,Banana
-2,9,Cucumber
-4,6,Apple
-1,10,Lettuce
-4,6,Tomato
-6,3,Pear
-2,8,Radish
+sweetness,crunchiness,ingridient,Food Type
+8,3,Mango,fruit
+9,2,Banana,fruit
+2,9,Cucumber,veg
+4,1,Apple,fruit
+1,10,Lettuce,veg
+4,6,tomato,veg
+6,3,Pear,fruit
+2,8,Radish,veg
